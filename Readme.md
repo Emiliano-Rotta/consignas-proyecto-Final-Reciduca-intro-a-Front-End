@@ -1,6 +1,6 @@
 Introducción a la Programación Frontend - Proyecto Final ⚙️ 
 
-👀PLAZO MAXIMO: Domingo 26/11/2023 a las 23.59hs
+👀PLAZO MAXIMO: Domingo 26/11/2023 a las 23.59hs SE ENVIA POR PRIVADO EN DISCORD
 
 Consigna Para el proyecto final: vas a realizar una página web. Este deberá mostrar un listado de personajes de la serie Rick and Morty (o alguna a eleccion de ustedes que les permita cumplir los requerimientos). Para esto utilizarás una API REST con datos reales, realizarás consultas a la misma pasándole distintos parámetros que permitan paginar la búsqueda y mostrarás los datos obtenidos como respuesta.
 
